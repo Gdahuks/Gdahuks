@@ -45,8 +45,6 @@
 [![JDBC](https://img.shields.io/badge/-JDBC-05122A?style=flat&logo=JDBC&color=353535)](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)
 [![ODBC](https://img.shields.io/badge/-ODBC-05122A?style=flat&logo=ODBC&color=353535)](https://learn.microsoft.com/en-us/cpp/data/odbc/odbc-basics?view=msvc-170)
 [![ADO.NET](https://img.shields.io/badge/-ADO.NET-05122A?style=flat&logo=ADO.NET&color=353535)](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/)
-[![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=LaTeX&color=353535)](https://www.latex-project.org/)
-[![Overleaf](https://img.shields.io/badge/-Overleaf-05122A?style=flat&logo=Overleaf&color=353535)](https://www.overleaf.com/)
 
 [![Snowflake](https://img.shields.io/badge/-Snowflake-05122A?style=flat&logo=Snowflake&color=353535)](https://www.snowflake.com/)
 [![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=SQL-Server&color=353535)](https://www.microsoft.com/en-us/sql-server)
@@ -54,3 +52,12 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&color=353535)](https://www.mysql.com/)
 [![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-05122A?style=flat&logo=Google-BigQuery&color=353535)](https://cloud.google.com/bigquery)
 [![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&color=353535)](https://www.sqlite.org/)
+
+[![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&color=353535)](https://www.r-project.org/)
+[![dplyr](https://img.shields.io/badge/-dplyr-05122A?style=flat&logo=dplyr&color=353535)](https://dplyr.tidyverse.org/)
+[![ggplot2](https://img.shields.io/badge/-ggplot2-05122A?style=flat&logo=ggplot2&color=353535)](https://ggplot2.tidyverse.org/)
+[![tidyr](https://img.shields.io/badge/-tidyr-05122A?style=flat&logo=tidyr&color=353535)](https://tidyr.tidyverse.org/)
+[![emmeans](https://img.shields.io/badge/-emmeans-05122A?style=flat&logo=emmeans&color=353535)](https://cran.r-project.org/web/packages/emmeans/index.html)
+[![caret](https://img.shields.io/badge/-caret-05122A?style=flat&logo=caret&color=353535)](https://topepo.github.io/caret/)
+[![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=LaTeX&color=353535)](https://www.latex-project.org/)
+[![Overleaf](https://img.shields.io/badge/-Overleaf-05122A?style=flat&logo=Overleaf&color=353535)](https://www.overleaf.com/)
