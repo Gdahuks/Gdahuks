@@ -14,6 +14,7 @@
 [![SciPy](https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=SciPy&color=353535)](https://www.scipy.org/)
 [![SymPy](https://img.shields.io/badge/-SymPy-05122A?style=flat&logo=SymPy&color=353535)](https://www.sympy.org/)
 [![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&color=353535)](https://pandas.pydata.org/)
+[![Polars](https://img.shields.io/badge/-Polars-05122A?style=flat&logo=Polars&color=353535)](https://pola.rs/)
 [![Statsmodels](https://img.shields.io/badge/-Statsmodels-05122A?style=flat&logo=Statsmodels&color=353535)](https://www.statsmodels.org/)
 [![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=Seaborn&color=353535)](https://seaborn.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib&color=353535)](https://matplotlib.org/)
@@ -31,6 +32,7 @@
 [![LINQ](https://img.shields.io/badge/-LINQ-05122A?style=flat&logo=LINQ&color=353535)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/)
 [![WinForms](https://img.shields.io/badge/-WinForms-05122A?style=flat&logo=WinForms&color=353535)](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/)
 [![DevExpress](https://img.shields.io/badge/-DevExpress-05122A?style=flat&logo=DevExpress&color=353535)](https://www.devexpress.com/)
+[![ANTLR](https://img.shields.io/badge/-ANTLR-05122A?style=flat&logo=ANTLRp&color=353535)](https://www.antlr.org/)
 
 [![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&color=353535)](https://www.docker.com/)
 [![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&color=353535)](https://www.linux.org/)
